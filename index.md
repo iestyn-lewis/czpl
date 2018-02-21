@@ -1,3 +1,5 @@
+<b>The CZ Patch Library is an independent product that is not built by, marketed, endorsed or supported by Casio.</b>
+
 ## What is it?
 
 The CZ Patch Library (CZPL) is an essential companion for the Casio CZ series of synthesizers.  It contains:
