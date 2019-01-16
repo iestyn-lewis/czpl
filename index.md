@@ -21,7 +21,7 @@ You can then connect external gear to the CZPL and all MIDI messages will be pas
 
 ## How do I use it?
 
-<a target="_blank" href="images/CZ%20Patch%20Library%20Manual%20FV%20302.pdf">READ THE MANUAL HERE</a>
+<a target="_blank" href="images/CZ%20Patch%20Library%20Manual%20FV%20303.pdf">READ THE MANUAL HERE</a>
 
 ## What presets are included?
 
