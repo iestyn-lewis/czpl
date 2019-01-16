@@ -91,10 +91,11 @@ Scroll down to order via PayPal or credit card.
 
 Please contact me:  <a href="mailto:iestyn.lewis@gmail.com">iestyn.lewis@gmail.com</a>
 
-The latest firmware version is 3.02.  To determine your device's firmware version, unplug your CZPL and plug it back in again.  Immediately after the CZPL "splash" appears, your firmware version will be displayed.  If you do not see a firmware version displayed, you have version 2.0 firmware.  If you would like to upgrade your firmware, please contact me for directions.
+The latest firmware version is 3.03.  To determine your device's firmware version, unplug your CZPL and plug it back in again.  Immediately after the CZPL "splash" appears, your firmware version will be displayed.  If you do not see a firmware version displayed, you have version 2.0 firmware.  If you would like to upgrade your firmware, please contact me for directions.
 
 ### Firmware Version History
 
+* 3.03 - Additional arpeggiator latch mode which matches behavior of other synthesizers' arpeggiator hold function.
 * 3.02 - Expanded arp sequence to 64 steps, added Operational Memory bank save/load for CZ-1, added MIDI Bank/Program Change.
 * 3.01 - Major version release with CZ-1 support, bank storage and arpeggiator.  <a target="_blank" href="images/CZ%20Patch%20Library%20Manual%20FV%20302.pdf">(v3.01 manual)</a>
 
