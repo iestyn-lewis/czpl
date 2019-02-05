@@ -2,7 +2,7 @@
 
 ## What is it?
 
-# The CZPL has been upgraded to PL88 for Casio CZ, which has all of the features described here PLUS thousands of presets and storage for other models of synthesizers as well.  Please visit [lewismidi.com/czpl](https://lewismidi.com/czpl)
+# Please visit our new website [lewismidi.com/czpl](https://lewismidi.com/czpl) for more information and to order!
 
 The CZ Patch Library (CZPL) is an essential companion for the Casio CZ series of synthesizers.  It contains:
 
@@ -46,7 +46,7 @@ This is a demonstration of an earlier version, with 1000 patches.  This model co
  
 ## How can I get one?
 
-The CZPL has been upgraded to PL88 for Casio CZ, which gives you all the features of the CZPL, plus presets and patch storage for other synthesizer models.  Please visit [lewismidi.com/czpl](https://lewismidi.com/czpl)
+Please visit our new website [lewismidi.com/czpl](https://lewismidi.com/czpl) for more information and ordering!
 
 ## SUPPORT
 
