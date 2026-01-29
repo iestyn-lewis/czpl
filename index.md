@@ -32,19 +32,14 @@ The CZ/PL 88 mini comes with a MicroSD card that is preloaded with thousands of 
 |Yamaha Reface DX|4,270 patches|
 |Yamaha Reface YC|1,655 patches|
 
->All Yamaha Reface Patches are from Martin Tarenskeen’s website which provides the freely available >patches from Yamaha’s public SoundMondo site in SysEx format, cleaned and deduplicated. See more >at http://soundmondo.martintarenskeen.nl
+>All Yamaha Reface Patches are from Martin Tarenskeen’s website which provides the freely available patches from Yamaha’s public SoundMondo site in SysEx format, cleaned and deduplicated. See more at http://soundmondo.martintarenskeen.nl
 
-<a href="https://docs.google.com/spreadsheets/d/1109mZsxOr6Yqff-AS8-ZlkmGOfHNpeHMYjs0XD-1vSU/edit?usp=sharing" target="_blank">Click Here to view all Patches and Banks Included</a>
+### <a href="https://docs.google.com/spreadsheets/d/1109mZsxOr6Yqff-AS8-ZlkmGOfHNpeHMYjs0XD-1vSU/edit?usp=sharing" target="_blank">Click Here to view all Patches and Banks Included</a>
  
-<iframe width="720" height="480" src="https://www.youtube.com/embed/WNlZNzl1yuE?ecver=1" frameborder="0" gesture="media" allowfullscreen></iframe>
 
 ## How do I connect it?
 
-Connect the CZPL to your Casio CZ-101, CZ-1000, CZ-3000, CZ-5000, CZ-1 or CZ-230S synthesizer with 2 MIDI cables and power the CZPL via USB or a 9V power adapter (center positive).  
-
-You can then connect external gear to the CZPL and all MIDI messages will be passed through to the Casio.  This lets you use sequencers and external controllers without having to unplug and plug cables.
-
-<img src="images/v2connected.JPG" width="560" />
+Connect the CZPL to your synthesizer with 2 MIDI cables and power the CZPL via USB or a 9V power adapter (center positive).  
 
 ## How do I use it?
 * Owner's Manual
