@@ -3,7 +3,15 @@
 
 The CZ/PL patch library offers thousands of preloaded patches for many brands of synthesizers. It also allows you to save patches and banks that you have created on your favorite synthesizer. No more tracking down expensive RAM catridges or having to resort to a computer. Lastly, it features a very nice arpeggiator.
 
-It works especially nicely with the Casio CZ series of synthesizers, for which it was originally designed.
+### Video Overviews
+<iframe width="720" height="480" src="https://www.youtube.com/embed/cevp1hzPE0Q?ecver=1" frameborder="0" gesture="media" allowfullscreen></iframe>
+
+It works especially nicely with the Casio CZ series of synthesizers, for which it was originally designed:
+<iframe width="720" height="480" src="https://www.youtube.com/embed/WNlZNzl1yuE?ecver=1" frameborder="0" gesture="media" allowfullscreen></iframe>
+
+It also works VERY nicely with the Yamaha Reface series of synthesizers, and comes with extensive patches for all Reface models:
+<iframe width="720" height="480" src="https://www.youtube.com/embed/S-mn005McPo?ecver=1" frameborder="0" gesture="media" allowfullscreen></iframe>
+
 
 ## What patches are included?
 
@@ -70,6 +78,3 @@ Send an email to <a href="mailto:iestyn.lewis@gmail.com">iestyn.lewis@gmail.com<
 Please contact me:  <a href="mailto:iestyn.lewis@gmail.com">iestyn.lewis@gmail.com</a>
 
 
-* 2.02 - Added CZ-230S mode.  Fixed MIDI IN latency problem.
-* 2.01 - Added manual random patch selection.
-* 2.00 - Initial version.
