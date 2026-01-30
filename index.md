@@ -1,3 +1,4 @@
+<img src="images/IMG-1138-1024x768.jpg" width=720>
 
 ## What is it?
 
@@ -59,13 +60,14 @@ Connect the CZPL to your synthesizer with 2 MIDI cables and power the CZPL via U
 ## How can I get one?
 
 <b>Please read all of the following before ordering:</b>
-* The CZ/PL 88 mini box is 3D printed. 3D printed parts have a textured appearance, please see photos above so you know what you are getting.
-* The CZ/PL 88 mini has a single set of MIDI ports. Many of the videos on this site show the CZPL or PL88, which had 2 sets of MIDI ports. These products are no longer available.
+* The CZ/PL 88 mini is assembled by hand, by me.  It is not a commercial, polished product.  That said - there are many hundreds of them out there being happily used!
+* The CZ/PL 88 mini box is 3D printed. 3D printed parts have a textured, uneven appearance.
+* The CZ/PL 88 mini has a single set of MIDI ports. Some of the videos on this site show the earlier CZPL or PL88, which had 2 sets of MIDI ports. These products are no longer available.
 * US customers: Returns offered within 7 days of receipt, with evidence that the CZ/PL 88 mini is defective electronically or physically. Return shipping is the responsibility of the buyer.
 * <b>International Shipping: NO RETURNS. </b>The extremely high shipping cost, possible customs problems and chance of damage when shipping outside of the US means that I cannot offer any returns or exchanges to international customers.
 
 ## To Order:
-Send an email to <a href="mailto:iestyn.lewis@gmail.com">iestyn.lewis@gmail.com</a>.  I will send you a PayPal link for ordering.  If I have them in stock, I ship in 1-2 business days.  If I am backordered I will put you on a waiting list and email you when they are ready. 
+Send an email to <a href="mailto:iestyn.lewis@gmail.com">iestyn.lewis@gmail.com</a>.  If I have them in stock, I will send you a PayPal link for ordering.  I ship in 1-2 business days.  If I am backordered I will put you on a waiting list and email you when they are ready. 
 
 ## SUPPORT
 Please contact me:  <a href="mailto:iestyn.lewis@gmail.com">iestyn.lewis@gmail.com</a>
