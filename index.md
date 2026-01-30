@@ -1,7 +1,9 @@
 
 ## What is it?
 
-The CZ/PL patch library offers thousands of preloaded patches for many brands of synthesizers. It also allows you to save patches and banks that you have created on your favorite synthesizer. No more tracking down expensive RAM catridges or having to resort to a computer. Lastly, it features a very nice arpeggiator.
+Many vintage and new synths can make thousands of sounds, but have only a handful of patch storage locations onboard.  The CZPL is a "magic box" that provides virtually unlimited patch storage space for your synthesizers.
+
+The CZ/PL patch library comes preloaded with thousands of patches for many brands of synthesizers. It also allows you to save patches and banks that you have created yourself. No more tracking down obscure, expensive RAM catridges or having to resort to a computer. **And as a bonus, it features a very nice arpeggiator to explore all of these new sounds!**
 
 ### Video Overviews
 <iframe width="720" height="480" src="https://www.youtube.com/embed/cevp1hzPE0Q?ecver=1" frameborder="0" gesture="media" allowfullscreen></iframe>
@@ -12,10 +14,9 @@ It works especially nicely with the Casio CZ series of synthesizers, for which i
 It also works VERY nicely with the Yamaha Reface series of synthesizers, and comes with extensive patches for all Reface models:
 <iframe width="720" height="480" src="https://www.youtube.com/embed/S-mn005McPo?ecver=1" frameborder="0" gesture="media" allowfullscreen></iframe>
 
-
 ## What patches are included?
 
-The CZ/PL 88 mini comes with a MicroSD card that is preloaded with thousands of patches:
+The CZ/PL 88 mini comes preloaded with thousands of patches:
 
 |Synth|# Presets|
 |-----|-------|
@@ -42,11 +43,9 @@ The CZ/PL 88 mini comes with a MicroSD card that is preloaded with thousands of 
 Connect the CZPL to your synthesizer with 2 MIDI cables and power the CZPL via USB or a 9V power adapter (center positive).  
 
 ## How do I use it?
-* Owner's Manual
-* Owner's Manual for the Casio CZ Series
-* Quick Start Guide
-
-<a target="_blank" href="images/CZ%20Patch%20Library%20Manual%20FV%20303.pdf">READ THE MANUAL HERE</a>
+* <a target="_blank" href="images/CZPL 88 mini Owners Manual FV 504.pdf">Owner's Manual</a>
+* <a target="_blank" href="images/CZPL 88 mini for Casio CZ Owners Manual FV 504.pdf">Owner's Manual for the Casio CZ Series</a>
+* <a target="_blank" href="images/CZPL 88 mini QuickStart FV 504.pdf">Quick Start Guide</a>
  
 ## How much is it?
 * Price is $179 USD.
@@ -57,7 +56,6 @@ Connect the CZPL to your synthesizer with 2 MIDI cables and power the CZPL via U
 * USB Power Cable which can be plugged into any USB charger. For power only – the CZ/PL 88 mini does not support MIDI over USB.
 * Quick Start Guide
 
-
 ## How can I get one?
 
 <b>Please read all of the following before ordering:</b>
@@ -67,7 +65,7 @@ Connect the CZPL to your synthesizer with 2 MIDI cables and power the CZPL via U
 * <b>International Shipping: NO RETURNS. </b>The extremely high shipping cost, possible customs problems and chance of damage when shipping outside of the US means that I cannot offer any returns or exchanges to international customers.
 
 ## To Order:
-Send an email to <a href="mailto:iestyn.lewis@gmail.com">iestyn.lewis@gmail.com</a>.  I will send you a PayPal link for ordering.  
+Send an email to <a href="mailto:iestyn.lewis@gmail.com">iestyn.lewis@gmail.com</a>.  I will send you a PayPal link for ordering.  If I have them in stock, I ship in 1-2 business days.  If I am backordered I will put you on a waiting list and email you when they are ready. 
 
 ## SUPPORT
 Please contact me:  <a href="mailto:iestyn.lewis@gmail.com">iestyn.lewis@gmail.com</a>
