@@ -7,13 +7,15 @@ Many vintage and new synths can make thousands of sounds, but have only a handfu
 The CZ/PL patch library comes preloaded with thousands of patches for many brands of synthesizers. It also allows you to save patches and banks that you have created yourself. No more tracking down obscure, expensive RAM catridges or having to resort to a computer. **And as a bonus, it features a very nice arpeggiator to explore all of these new sounds!**
 
 ### Video Overviews
-<iframe width="720" height="480" src="https://www.youtube.com/embed/cevp1hzPE0Q?ecver=1" frameborder="0" gesture="media" allowfullscreen></iframe>
+
+Feature Overview of current version
+<iframe src="https://www.youtube.com/embed/cevp1hzPE0Q?ecver=1" frameborder="0" gesture="media" allowfullscreen></iframe>
 
 It works especially nicely with the Casio CZ series of synthesizers, for which it was originally designed:
-<iframe width="720" height="480" src="https://www.youtube.com/embed/WNlZNzl1yuE?ecver=1" frameborder="0" gesture="media" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/WNlZNzl1yuE?ecver=1" frameborder="0" gesture="media" allowfullscreen></iframe>
 
 It also works VERY nicely with the Yamaha Reface series of synthesizers, and comes with extensive patches for all Reface models:
-<iframe width="720" height="480" src="https://www.youtube.com/embed/S-mn005McPo?ecver=1" frameborder="0" gesture="media" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/S-mn005McPo?ecver=1" frameborder="0" gesture="media" allowfullscreen></iframe>
 
 ## What patches are included?
 
